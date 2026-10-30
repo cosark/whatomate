@@ -108,6 +108,11 @@ make build-prod
 
 See [configuration docs](https://shridarpatil.github.io/whatomate/getting-started/configuration/) for detailed setup options.
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Whatomate/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/whatomate"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## CLI Usage
 
 ```bash
